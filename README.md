@@ -1,5 +1,4 @@
 # MCNet
--
 
 Pytorch implementation of MCNet for IEEE/CAA JAS 2023 paper "[MCNet: Multiscale Clustering Network for Two-View Geometry Learning and Feature Matching](https://ieeexplore.ieee.org/abstract/document/10141546)", by Gang Wang and Yufei Chen.
 
